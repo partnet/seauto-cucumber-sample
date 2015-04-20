@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.partnet.sample</groupId>
   <artifactId>seauto-cucumber-sample</artifactId>
-  <version>0.9.0</version>
+  <version>0.9.1</version>
   <name>SeAuto-Cucumber-Sample</name>
   
   <description>Sample project for SeAuto: a bridge to Selenium from your favorite test framework.</description>
