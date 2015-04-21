@@ -7,9 +7,9 @@
   <name>SeAuto-Cucumber-Sample</name>
   
   <description>Sample project for SeAuto: a bridge to Selenium from your favorite test framework.</description>
-  <url>https://github.com/partnet/cucumber-junit-sample</url>
+  <url>https://github.com/partnet/seauto-cucumber-sample</url>
   <scm>
-    <url>https://github.com/partnet/cucumber-junit-sample.git</url>
+    <url>https://github.com/partnet/seauto-cucumber-sample.git</url>
   </scm>
 
   <licenses>
